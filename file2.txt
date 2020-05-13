@@ -1,0 +1,2 @@
+wordstring = 'my name is bob .my parents names are emily and jack.my parents work hard for me'
+wordstring += 'bob is a good boy,bob is also a hardworking person'
